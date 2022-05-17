@@ -12,12 +12,6 @@ I'm Carla Morales (she/her), a student from [Tecnológico de Monterrey](tec.mx) 
 
 #### :chart_with_upwards_trend::bar_chart: My stats!
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 |                                                                                                                                        |                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img align="left" src="https://github-readme-stats.vercel.app/api?username=moraleslc&show_icons=true&theme=radical" alt="moraleslc" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=moraleslc&show_icons=true&locale=en&theme=radical" alt="moraleslc" /> |
