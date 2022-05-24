@@ -5,7 +5,7 @@
 <br />
 <br />
   
-I'm Carla Morales (she/her), a student from [Tecnológico de Monterrey](tec.mx) pursuing a degree in computer science. Apart from coding, I also dedicate my time to design and UI/UX in my projects!:sparkles:
+I'm Carla Morales (she/her), a student from [Tecnológico de Monterrey](https://www.tec.mx) pursuing a degree in computer science. Apart from coding, I also dedicate my time to design and UI/UX in my projects!:sparkles:
 
 
 ### :computer::computer_mouse: My tools and languages
@@ -20,7 +20,7 @@ I'm Carla Morales (she/her), a student from [Tecnológico de Monterrey](tec.mx) 
 | <img align="left" src="https://github-readme-stats.vercel.app/api?username=moraleslc&show_icons=true&theme=radical" alt="moraleslc" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=moraleslc&show_icons=true&locale=en&theme=radical" alt="moraleslc" /> |
 
 <details>
-<summary>Want to look something cool?</summary>
+<summary>Want to look something at cool?</summary>
   <img width="250" src="https://c.tenor.com/KIK3g5GlWvEAAAAM/15juns-shinee.gif">
   <br />
   get jjonged
