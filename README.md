@@ -1,5 +1,7 @@
 ## Hello there! I'm Carla :slightly_smiling_face::two_hearts:
 
+![](https://dcbadge.vercel.app/api/shield/692439336637038662)
+
 <a href='https://www.linkedin.com/in/moraleslc/'><img align='left' alt="linkedin" src="/Assets/linkedin.png" height='25px' style= 'margin: 5px'/></a> <a href='https://open.spotify.com/user/morales.lc?si=bdf3594c3e5e458d'><img align='left' alt="spotify" src="/Assets/spotify.png" height='25px' style= 'margin: 5px'/></a> <a href='mailto:morales.lc1610@gmail.com'><img align='left' alt="gmail" src="/Assets/gmail.png" height='25px' style= 'margin: 5px'/></a> <a href='https://www.behance.net/moraleslc'><img align='left' alt="behance" src="/Assets/behance.png" height='25px' style= 'margin: 5px'/></a>
 
 <br />
@@ -18,6 +20,10 @@ I'm Carla Morales (she/her), a student from [Tecnológico de Monterrey](https://
 |                                                                                                                                        |                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img align="left" src="https://github-readme-stats.vercel.app/api?username=moraleslc&show_icons=true&theme=radical" alt="moraleslc" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=moraleslc&show_icons=true&locale=en&theme=radical" alt="moraleslc" /> |
+
+### ✨🧸☕ Fun stuff
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=moraleslc&count=3)
 
 <details>
 <summary>Want to look something at cool?</summary>
