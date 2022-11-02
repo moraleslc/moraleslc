@@ -19,7 +19,7 @@ I'm Carla Morales (she/her), a student from [Tecnológico de Monterrey](https://
 
 |                                                                                                                                        |                                                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img align="left" src="https://github-readme-stats.vercel.app/api?username=moraleslc&show_icons=true&theme=radical" alt="moraleslc" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=moraleslc&show_icons=true&locale=en&theme=radical" alt="moraleslc" /> |
+| <img align="left" src="https://github-readme-stats.vercel.app/api?username=moraleslc&show_icons=true&theme=radical" alt="moraleslc" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraleslc&layout=compact&theme=radical" /> |
 
 ### ✨🧸☕ Fun stuff
 
