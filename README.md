@@ -26,7 +26,7 @@ I'm Carla Morales (she/her), a student from [Tecnológico de Monterrey](https://
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=moraleslc&count=3)
 
 <details>
-<summary>Want to look something at cool?</summary>
+<summary>Want to look something cool?</summary>
   <img width="250" src="https://c.tenor.com/KIK3g5GlWvEAAAAM/15juns-shinee.gif">
   <br />
   get jjonged
