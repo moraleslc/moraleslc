@@ -2,12 +2,12 @@
 
 ![](https://dcbadge.vercel.app/api/shield/692439336637038662)
 
-<a href='https://www.linkedin.com/in/moraleslc/'><img align='left' alt="linkedin" src="/Assets/linkedin.png" height='25px' style= 'margin: 5px'/></a> <a href='https://open.spotify.com/user/morales.lc?si=bdf3594c3e5e458d'><img align='left' alt="spotify" src="/Assets/spotify.png" height='25px' style= 'margin: 5px'/></a> <a href='mailto:morales.lc1610@gmail.com'><img align='left' alt="gmail" src="/Assets/gmail.png" height='25px' style= 'margin: 5px'/></a> <a href='https://www.behance.net/moraleslc'><img align='left' alt="behance" src="/Assets/behance.png" height='25px' style= 'margin: 5px'/></a>
+<a href='https://www.linkedin.com/in/moraleslc/'><img align='left' alt="linkedin" src="/Assets/linkedin.png" height='25px' style= 'margin: 5px'/></a> <a href='https://open.spotify.com/user/morales.lc?si=bdf3594c3e5e458d'><img align='left' alt="spotify" src="/Assets/spotify.png" height='25px' style= 'margin: 5px'/></a> <a href='mailto:morales.lc1610@gmail.com'><img align='left' alt="gmail" src="/Assets/gmail.png" height='25px' style= 'margin: 5px'/></a>
 
 <br />
 <br />
   
-I'm Carla Morales (she/her), a student from [Tecnológico de Monterrey](https://www.tec.mx) pursuing a degree in computer science. Apart from coding, I also dedicate my time to design and UI/UX in my projects!:sparkles:
+I'm Carla Morales (she/her), a student from [Tecnológico de Monterrey](https://www.tec.mx) pursuing a degree in computer science. Apart from coding, I also dedicate my time to design and UI/UX in my projects! :sparkles:
 
 
 ### :computer::computer_mouse: My tools and languages
