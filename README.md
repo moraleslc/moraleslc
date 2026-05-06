@@ -7,17 +7,17 @@
 <br />
 <br />
   
-I'm Carla Morales (she/her), a grad computer science student from [Tecnológico de Monterrey](https://www.tec.mx). Besides coding, I also love to implement some UI/UX in my projects! :sparkles:
+I'm Carla Morales (she/her), a grad computer science student from [Tecnológico de Monterrey](https://www.tec.mx). Besides coding and QA stuff, I also love to implement some UI/UX in my projects! :sparkles:
 
 
 ### :computer::computer_mouse: My tools and languages
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,css,figma,firebase,flask,git,html,ai,js,md,matlab,mysql,nextjs,nodejs,py,react,tailwind,ubuntu,ts,vscode,vercel,latex)](https://skillicons.dev)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=adobeillustrator,adobeaftereffects,arduino,playwright,figma,cpp,python,jupyter,firebase,flask,html,css3,css,tailwindcss,motion,framer,jira,git,github,confluence,visualstudiocode,javascript,typescript,markdown,mysql,nextjs,nodejs,reactjs,ubuntu,vercel,latex,overleaf,jasmine,postman)](https://github.com/syvixor/skills-icons)
 
 
 ### :chart_with_upwards_trend::bar_chart: My stats!
 
-[![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=moraleslc)](https://github.com/moraleslc/github-readme-stats)
+![Carla's GitHub stats](https://github-stats-extended.vercel.app/api?username=moraleslc&show_icons=true&theme=radical)
 
 ### ✨🧸☕ Fun stuff
 
